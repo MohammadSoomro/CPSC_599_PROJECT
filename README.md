@@ -42,9 +42,11 @@ Frameworks: Pytorch
 
 
 
-Results for the final best model on the test set:
+
 ![Data Distribution Chart](https://github.com/MohammadSoomro/CPSC_599_PROJECT/blob/main/images/Graph%20Image.png?raw=true)
 ![Data Distribution Chart](https://github.com/MohammadSoomro/CPSC_599_PROJECT/blob/main/images/Graph%20image%202.png?raw=true)
+
+Results for the final best model on the test set:
 ● Validation accuracy = 96.70%
 ● Loss = 0.085
 ● Sensitivity = 97.12%
