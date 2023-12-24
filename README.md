@@ -1,4 +1,4 @@
-# CPSC-599-Final-Project
+# CPSC-599-Final-Project (Deep Learning on Computer Vision for Abnormal Lung Cell Detection)
 
 ### What is this project about?
 The main goal/objectives of our project is to create a model that learn through several processing layers that break down complex images into series of simple mappings so that it can learn the difference between the images feeded to it to discriminate into either malignant or benign kinds of cancer (specifically lung cancer).
